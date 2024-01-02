@@ -1,0 +1,108 @@
+.col-sm{
+    text-align: left;
+    color: black;
+}
+
+.coln-sm{
+      width:18%;
+      height:25%;
+      float:right;
+      margin:20px;
+      padding-left:150px;
+}
+
+.container-sm-xxl li{
+                margin-left:230px;
+}
+
+.container-sm-fluid-xl{
+              background-color:aqua;
+              color: white;
+              text-align: center;           
+}
+
+.container-sm-lg{ 
+             text-align: center;
+            justify-content: center;
+            margin-top:-10%;
+
+}
+.boxx-sm{
+    display: flex;
+    margin-left:550px;
+    text-align: center;
+}
+.boxx-sm span{
+      color: white;
+}
+
+.colx-sm{
+    width:25%;
+    height: auto;
+    margin: 0%;
+    text-align: center;
+}
+.colx-sm img{
+        width:100%;
+        height: auto;
+}
+
+.coly-sm{
+    width:33.33%;
+    height:auto;
+}
+
+.cout img{
+    width:100%;
+    height:20%;
+}
+
+.photo-sm img{
+    width:100%;
+}
+
+.column-sm{
+    width:70%;
+    height:80%;
+    text-align: center;
+    font-size:35px;
+    background-color:white;
+    border:1px solid black;
+    margin-left:160px;
+    margin-top:-600px;
+}
+.col-sm-2{     width:30%;
+            margin-left:200px;
+            background-color: beige;
+            border-radius:20px;
+
+}
+.col-sm-2 i{
+         font-size:250%;
+}
+
+.col-sm-2 li{
+       text-align: center;
+}
+
+.container-sm-5{
+             background-color: rgb(34, 148, 235);
+}
+
+.col-sm-y{width:50%;
+      text-align: center;
+      margin-left:300px;
+      background-color:rgba(234, 233, 226, 0.993);
+      border-radius:10px;
+      margin-top:30px;
+      
+}
+.last{
+    text-align: left;
+}
+
+.footer-sm{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
